@@ -74,4 +74,14 @@ Future Improvements:
 8. Adding more movement to arms and legs: currently elbow joint and knee joint is not working as it requires acctuator to function which is expensive to this idea is at pause for sometime. 
 
 https://github.com/user-attachments/assets/3fb2aea5-e808-4ce8-a756-d593208af6f1
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 25 PM" src="https://github.com/user-attachments/assets/173a23ae-79b9-4f88-8d47-7f9b0c215862" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 25 PM (1)" src="https://github.com/user-attachments/assets/a6ace77e-f364-4e41-b914-a520183aa730" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 24 PM" src="https://github.com/user-attachments/assets/5d810e05-46c1-48b5-9859-c3db248f3cc1" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 24 PM (2)" src="https://github.com/user-attachments/assets/9c9c2d60-e680-42d4-8648-bdf49f675c18" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 24 PM (1)" src="https://github.com/user-attachments/assets/2a4ac3ef-1cab-419b-982c-0e5eb1efa29c" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 23 PM" src="https://github.com/user-attachments/assets/bea92dd5-e494-44c3-b902-fad6fc5c9414" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 23 PM (1)" src="https://github.com/user-attachments/assets/bf073dfe-7e96-4350-8600-32415e6d8da2" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 22 PM" src="https://github.com/user-attachments/assets/f047b86c-804f-46f0-a25b-8f3a13e40477" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 22 PM (1)" src="https://github.com/user-attachments/assets/99c476a9-c0c5-455d-90cc-9e72ea137f5e" />
+
 
