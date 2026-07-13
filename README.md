@@ -71,7 +71,8 @@ Future Improvements:
 5. Chat memory and personalized interactions: this feature will change how robot interacts with others because it will be able to remember personal information from face of specific person and respond accordingly.
 6. Controlling TV with robot: currently im working on this, theoritically i have figured out everything and how things will be done. With voice command it will be able to turn on TV and play all channels as per my need.
 7. Cloud synchronization: I want to create a system  which uses camera of robot that detects threat and alarming situations and starts recording automatically of that situation and saves it to cloud to use it as proof and send it to appropriate authorities for safety.
-8. Adding more movement to arms and legs: currently elbow joint and knee joint is not working as it requires acctuator to function which is expensive to this idea is at pause for sometime. 
+8. Adding more movement to arms and legs: currently elbow joint and knee joint is not working as it requires acctuator to function which is expensive to this idea is at pause for sometime.
+9. add human following system
 
 https://github.com/user-attachments/assets/3fb2aea5-e808-4ce8-a756-d593208af6f1
 
