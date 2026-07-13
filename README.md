@@ -74,6 +74,7 @@ Future Improvements:
 8. Adding more movement to arms and legs: currently elbow joint and knee joint is not working as it requires acctuator to function which is expensive to this idea is at pause for sometime. 
 
 https://github.com/user-attachments/assets/3fb2aea5-e808-4ce8-a756-d593208af6f1
+
 <img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 25 PM" src="https://github.com/user-attachments/assets/173a23ae-79b9-4f88-8d47-7f9b0c215862" />
 <img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 25 PM (1)" src="https://github.com/user-attachments/assets/a6ace77e-f364-4e41-b914-a520183aa730" />
 <img width="1600" height="1200" alt="WhatsApp Image 2026-07-13 at 6 57 24 PM" src="https://github.com/user-attachments/assets/5d810e05-46c1-48b5-9859-c3db248f3cc1" />
